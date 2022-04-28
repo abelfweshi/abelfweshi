@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abelfweshi
+- 👋 Hi, I’m @fweshiOs
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python Programming 
 - 💞️ I’m looking to collaborate on any back-end project development 
